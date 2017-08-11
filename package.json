@@ -1,0 +1,33 @@
+{
+  "name": "webrtc-es6-async-await",
+  "version": "0.0.1",
+  "description": "Promisfiyed WebRTC APIs with Async/Await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc",
+    "es6",
+    "async",
+    "await"
+  ],
+  "author": "dfdgsdfg",
+  "license": "ISC",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/dfdgsdfg/webrtc-es6-await-async"
+   },
+  "dependencies": {
+    "express": "^4.15.4",
+    "ws": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
